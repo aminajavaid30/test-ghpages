@@ -1,0 +1,7 @@
+site_name: Test GitHub Pages
+theme:
+  name: material
+
+nav:
+  - Index: index.md
+  - Hello: hello-ghpages.md 
