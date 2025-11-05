@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome","text":"<p>Welcome to gh-pages! </p>"},{"location":"hello-ghpages/","title":"Testing gh-pages","text":"<p>Hello! This is a test page.</p>"}]}
