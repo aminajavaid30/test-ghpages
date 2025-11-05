@@ -3,5 +3,5 @@ theme:
   name: material
 
 nav:
-  - Index: index.md
+  - Welcome: index.md
   - Hello: hello-ghpages.md 
